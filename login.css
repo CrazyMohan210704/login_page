@@ -97,13 +97,9 @@ background-position: right center;
 
 .g-signin2{
     position: absolute;
-	position-left:0;
-	bottom:43.391;
-	left:91px;
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%)
 }
-@media screen and (max-width:1440px;){
-.g-signin2~.g-signin2{
-	animaton:0;
-}
-}
+
 	
