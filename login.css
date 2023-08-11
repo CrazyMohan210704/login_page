@@ -97,8 +97,11 @@ background-position: right center;
 
 .g-signin2{
     position: absolute;
-      margin-left: 50px;
-margin-right: -30px;
+/*       margin-left: 50px;
+margin-right: -30px; */
+	position-left:0;
+	bottom:33.391;
+	left:91px;
 }
 .btn{
 	margin-left:100px;
