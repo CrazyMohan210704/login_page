@@ -101,4 +101,9 @@ background-position: right center;
 	bottom:43.391;
 	left:91px;
 }
+@media screen and (max-width:1440px;){
+.g-signin2~.g-signin2{
+	animaton:0;
+}
+}
 	
